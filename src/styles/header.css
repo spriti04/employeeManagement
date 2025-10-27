@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #0F0E0E;
+    padding: 10px;
+}
+
+.header .link h2{
+    margin: 0px;
+    color: aliceblue;
+}
+
+.header .link{
+    text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
+}
+.header ul {
+    display: flex;
+    list-style: none;
+    margin: auto;
+    width: 450px;
+    justify-content: space-around;
+}
+
+.header ul li {
+    padding: 10px;
+}

@@ -1,0 +1,25 @@
+.profile-card {
+    text-align: center;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 50px;
+    width: 500px;
+    margin-left: 390px;
+    /* border: 3px solid royalblue; */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.profile-card .image{
+    align-items: center;
+    /* border: 3px solid blueviolet; */
+    width: 227px;
+    height: 233px;
+    box-sizing: border-box;
+    border-radius: 100%;
+    margin: 0px 115px;
+}
+.profile-card .details {
+    /* border: 2px solid deeppink; */
+    margin: 10px;
+    text-align: initial;
+}
