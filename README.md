@@ -46,7 +46,7 @@ The Employee Management System is ideal for organizations that want to maintain 
 | Layer | Technology Used |
 |--------|------------------|
 | **Frontend** | React.js, HTML5, CSS3, JavaScript |
-| **Backend** | Java, Spring Boot, Spring Security, Spring Data JPA |
+| **Backend** | Java, Spring Boot, Spring Data JPA |
 | **Database** | MySQL |
 | **Build Tool** | Maven |
 | **API Communication** | REST APIs (JSON format) |
@@ -95,4 +95,3 @@ Add profile picture upload functionality.
 
 Implement Role-based authentication for better scalability.
 
->>>>>>> 1787a0c7f02c73c0b0dd99949ce04753f8b71097
